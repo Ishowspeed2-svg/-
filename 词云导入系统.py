@@ -53,5 +53,3 @@ else:
         plt.show()
     else:
         print("词云无法生成，内容为空。")
-
-print("2420220024,胡铭涛")
